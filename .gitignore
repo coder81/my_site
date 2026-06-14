@@ -1,1 +1,4 @@
-__init__.py
+blog/__pycache__
+blog/migrations/__pycache__
+my_site/__pycache__
+blog/static/blog/images
